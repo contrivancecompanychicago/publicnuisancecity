@@ -1,0 +1,74 @@
+{
+    "api-key": {
+        "name": "api-key",
+        "type": "api-key",
+        "disabled": false
+    },
+    "custom-function": {
+        "name": "custom-function",
+        "type": "custom-function",
+        "config": {
+            "authFunctionName": "Atlas_Triggers_trigger1_1612549192"
+        },
+        "disabled": false
+    },
+    "custom-token": {
+        "name": "custom-token",
+        "type": "custom-token",
+        "config": {
+            "audience": "",
+            "signingAlgorithm": "HS256",
+            "useJWKURI": false
+        },
+        "secret_config": {
+            "signingKeys": [
+                "publicnuisancecityqualityoflifegames"
+            ]
+        },
+        "disabled": false
+    },
+    "oauth2-google": {
+        "name": "oauth2-google",
+        "type": "oauth2-google",
+        "config": {
+            "clientId": "106851688693465140584",
+            "openId": false
+        },
+        "secret_config": {
+            "clientSecret": "eugenia-g-panem"
+        },
+        "disabled": false,
+        "metadata_fields": [
+            {
+                "required": false,
+                "name": "name"
+            },
+            {
+                "required": false,
+                "name": "first_name"
+            },
+            {
+                "required": false,
+                "name": "last_name"
+            },
+            {
+                "required": false,
+                "name": "gender"
+            },
+            {
+                "required": false,
+                "name": "email"
+            }
+        ],
+        "redirect_uris": [
+            "https://apiary.io",
+            "https://publicnuisancecitygame.mygamesonline.org",
+            "https://localhost",
+            "https://localhost:587",
+            "https://localhost:5353",
+            "https://localhost:8080",
+            "https://erichilarysmithsr.wixsite.com/qualityoflifegames",
+            "https://erichilarysmithsr.wixsite.com/cosinegameforum"
+        ]
+    }
+}

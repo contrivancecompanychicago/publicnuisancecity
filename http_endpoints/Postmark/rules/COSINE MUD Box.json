@@ -1,0 +1,15 @@
+{
+    "name": "COSINE MUD Box",
+    "actions": [
+        "get",
+        "post",
+        "put"
+    ],
+    "when": {
+        "%%args.url.host": {
+            "%in": [
+                "google.com"
+            ]
+        }
+    }
+}

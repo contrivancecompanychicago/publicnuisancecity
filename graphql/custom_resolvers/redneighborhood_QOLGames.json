@@ -1,0 +1,9 @@
+{
+    "field_name": "QOLGames",
+    "function_name": "Atlas_Triggers_trigger1_1612549192",
+    "input_type": "int",
+    "input_type_format": "scalar-list",
+    "on_type": "RedNeighborhood",
+    "payload_type": "int",
+    "payload_type_format": "scalar-list"
+}

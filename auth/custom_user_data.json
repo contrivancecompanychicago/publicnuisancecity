@@ -1,0 +1,7 @@
+{
+    "enabled": true,
+    "mongo_service_name": "Cluster0",
+    "database_name": "sample_restaurants",
+    "collection_name": "Wuhan_Seafood_Market",
+    "user_id_field": "Seafood"
+}

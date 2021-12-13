@@ -1,0 +1,6 @@
+{
+    "name": "Postmark",
+    "type": "http",
+    "config": {},
+    "version": 1
+}

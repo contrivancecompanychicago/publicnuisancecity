@@ -1,0 +1,27 @@
+{
+    "id": "601d8ce4038ca9044733a910",
+    "name": "trigger3",
+    "type": "DATABASE",
+    "config": {
+        "operation_types": [
+            "INSERT",
+            "UPDATE"
+        ],
+        "database": "sample_geospatial",
+        "collection": "Road 2 Archean Ocean",
+        "service_name": "Cluster0",
+        "match": {},
+        "project": {},
+        "full_document": true,
+        "full_document_before_change": true,
+        "unordered": false
+    },
+    "disabled": false,
+    "event_processors": {
+        "FUNCTION": {
+            "config": {
+                "function_name": "COSQLINE"
+            }
+        }
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "name": "gcm",
+    "type": "gcm",
+    "config": {
+        "senderId": "381038359709"
+    },
+    "secret_config": {
+        "apiKey": "publicnuisancecitygame"
+    },
+    "version": 1
+}

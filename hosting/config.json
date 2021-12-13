@@ -1,0 +1,6 @@
+{
+    "enabled": true,
+    "app_default_domain": "triggers-realmapp-vzrdi-xgsrq.mongodbstitch.com",
+    "default_error_path": "/index.html",
+    "default_error_code": "200"
+}

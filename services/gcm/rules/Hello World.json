@@ -1,0 +1,9 @@
+{
+    "name": "Hello World",
+    "actions": [
+        "send"
+    ],
+    "when": {
+        "%%user.type": "server"
+    }
+}

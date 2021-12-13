@@ -1,0 +1,27 @@
+{
+    "id": "601d8d234e2cf3331b363b1f",
+    "name": "trigger4",
+    "type": "DATABASE",
+    "config": {
+        "operation_types": [
+            "INSERT",
+            "UPDATE"
+        ],
+        "database": "sample_restaurants",
+        "collection": "restaurants",
+        "service_name": "Cluster0",
+        "match": {},
+        "project": {},
+        "full_document": true,
+        "full_document_before_change": true,
+        "unordered": false
+    },
+    "disabled": false,
+    "event_processors": {
+        "FUNCTION": {
+            "config": {
+                "function_name": "COSQLINE"
+            }
+        }
+    }
+}

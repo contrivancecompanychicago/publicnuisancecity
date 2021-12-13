@@ -1,0 +1,12 @@
+{
+    "app_id": "triggers_realmapp-vzrdi",
+    "config_version": 20210101,
+    "name": "Triggers_RealmApp",
+    "location": "US-VA",
+    "deployment_model": "GLOBAL",
+    "environment": "development",
+    "allowed_request_origins": [
+        "https://ericyellowscreencomputers.com",
+        "https://publicnuisancecity.mygamesonline.org"
+    ]
+}

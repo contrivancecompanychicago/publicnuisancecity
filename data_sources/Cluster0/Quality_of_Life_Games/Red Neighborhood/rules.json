@@ -1,0 +1,19 @@
+{
+    "collection": "Red Neighborhood",
+    "database": "Quality_of_Life_Games",
+    "roles": [
+        {
+            "name": "default",
+            "apply_when": {},
+            "fields": {
+                "Social Bubble 1 ": {}
+            },
+            "read": true,
+            "write": false,
+            "insert": false,
+            "delete": false,
+            "search": true,
+            "additional_fields": {}
+        }
+    ]
+}

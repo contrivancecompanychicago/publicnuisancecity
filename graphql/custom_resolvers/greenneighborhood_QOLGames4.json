@@ -1,0 +1,8 @@
+{
+    "field_name": "QOLGames4",
+    "function_name": "COSQLINE",
+    "input_type": "int",
+    "input_type_format": "scalar",
+    "on_type": "GreenNeighborhood",
+    "payload_type_format": ""
+}
