@@ -7,6 +7,6 @@
     "environment": "development",
     "allowed_request_origins": [
         "https://ericyellowscreencomputers.com",
-        "https://publicnuisancecity.mygamesonline.org"
+        "https://qualityoflifegames.mygamesonline.org"
     ]
 }
